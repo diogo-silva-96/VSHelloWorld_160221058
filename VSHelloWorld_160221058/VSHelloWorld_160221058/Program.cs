@@ -8,7 +8,6 @@ namespace VSHelloWorld_160221058
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("conamite");
         }
     }
 }

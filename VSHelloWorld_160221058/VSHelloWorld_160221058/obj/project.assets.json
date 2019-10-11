@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dass_\\source\\repos\\bruh\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058.csproj",
+      "projectUniqueName": "C:\\Users\\dass_\\OneDrive\\Documentos\\GitHub\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058.csproj",
       "projectName": "VSHelloWorld_160221058",
-      "projectPath": "C:\\Users\\dass_\\source\\repos\\bruh\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058.csproj",
+      "projectPath": "C:\\Users\\dass_\\OneDrive\\Documentos\\GitHub\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058.csproj",
       "packagesPath": "C:\\Users\\dass_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dass_\\source\\repos\\bruh\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\obj\\",
+      "outputPath": "C:\\Users\\dass_\\OneDrive\\Documentos\\GitHub\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\VSHelloWorld_160221058\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dass_\\AppData\\Roaming\\NuGet\\NuGet.Config",
